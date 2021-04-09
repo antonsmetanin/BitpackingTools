@@ -1,0 +1,8 @@
+{
+  "name": "emotitron.bitpackingtools",
+  "version": "1.0.0",
+  "displayName": "Bitpacking Tools",
+  "description": "Bitpacking Tools",
+  "unity": "2019.1",
+  "unityRelease": "0b5"
+}
